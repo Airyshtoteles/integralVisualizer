@@ -10,7 +10,7 @@ Sebuah skrip Python sederhana untuk memvisualisasikan integral.
   - `matplotlib`  
   - `numpy`  
   - `sympy`
-pip install matplotlib numpy sympy
+
 ---
 
 ## Instalasi
@@ -20,4 +20,5 @@ pip install matplotlib numpy sympy
 ```bash
 git clone https://github.com/Airyshtoteles/integralVisualizer.git
 cd integralVisualizer
+pip install matplotlib numpy sympy
 python integralVisualizer.py
