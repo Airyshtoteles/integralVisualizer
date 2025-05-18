@@ -1,8 +1,6 @@
 # integralVisualizer
 
 Sebuah skrip Python sederhana untuk memvisualisasikan integral.  
-(Deskripsi ini bisa kamu sesuaikan dengan fungsi dan tujuan skrip kamu)
-
 ---
 
 ## Persyaratan
